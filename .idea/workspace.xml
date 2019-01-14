@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86c3762e-c6f8-40d5-a9f6-70050a04ad14" name="Default" comment="" />
+    <list default="true" id="86c3762e-c6f8-40d5-a9f6-70050a04ad14" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/acronym/acronym.py" afterPath="$PROJECT_DIR$/python/acronym/acronym.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,49 +14,54 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__5_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (5) Coverage Results" MODIFIED="1547394390095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_HelloWorldTest_test_hello.coverage" NAME="Unittest HelloWorldTest.test_hello Coverage Results" MODIFIED="1546874842408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/hello-world" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_PangramTest_test_upper_and_lower_case_versions_of_the_same_character__1_.coverage" NAME="Unittest PangramTest.test_upper_and_lower_case_versions_of_the_same_character (1) Coverage Results" MODIFIED="1546876738166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/pangram" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__2_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (2) Coverage Results" MODIFIED="1547395118733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_TwoFerTest_test_no_name_given.coverage" NAME="Unittest TwoFerTest.test_no_name_given Coverage Results" MODIFIED="1547403968842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_ReverseStringTest_test_empty_string.coverage" NAME="Unittest ReverseStringTest.test_empty_string Coverage Results" MODIFIED="1547045202867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/reverse-string" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_AcronymTest_test_punctuation.coverage" NAME="Unittest AcronymTest.test_punctuation Coverage Results" MODIFIED="1547462771539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_SpaceAgeTest_test_age_on_venus.coverage" NAME="Unittest SpaceAgeTest.test_age_on_venus Coverage Results" MODIFIED="1547047519412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_modifier_for_score_10_is_0.coverage" NAME="Unittest DnDCharacterTest.test_modifier_for_score_10_is_0 Coverage Results" MODIFIED="1547394577044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_GigasecondTest_test_date_only_specification_of_time__1_.coverage" NAME="Unittest GigasecondTest.test_date_only_specification_of_time (1) Coverage Results" MODIFIED="1547316432709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/gigasecond" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_ArmstrongNumbersTest_test_there_are_no_two_digit_armstrong_numbers.coverage" NAME="Unittest ArmstrongNumbersTest.test_there_are_no_two_digit_armstrong_numbers Coverage Results" MODIFIED="1546967425843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/armstrong-numbers" />
+    <SUITE FILE_PATH="coverage/Exercism$acronym.coverage" NAME="acronym Coverage Results" MODIFIED="1547462769161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_RnaTranscriptionTest_test_transcribes_guanine_to_cytosine.coverage" NAME="Unittest RnaTranscriptionTest.test_transcribes_guanine_to_cytosine Coverage Results" MODIFIED="1547403701328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_TwoFerTest_test_another_name_given.coverage" NAME="Unittest TwoFerTest.test_another_name_given Coverage Results" MODIFIED="1547403966876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_LeapTest_test_year_divisible_by_100_not_divisible_by_400__1_.coverage" NAME="Unittest LeapTest.test_year_divisible_by_100_not_divisible_by_400 (1) Coverage Results" MODIFIED="1546968289026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/leap" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_GigasecondTest_test_date_only_specification_of_time.coverage" NAME="Unittest GigasecondTest.test_date_only_specification_of_time Coverage Results" MODIFIED="1547316410578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/gigasecond" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range Coverage Results" MODIFIED="1547394391296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittests_in_SpaceAgeTest.coverage" NAME="Unittests in SpaceAgeTest Coverage Results" MODIFIED="1547047526763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__3_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (3) Coverage Results" MODIFIED="1547394296459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_BankAccountTest_test_checking_balance_of_closed_account_throws_error.coverage" NAME="Unittest BankAccountTest.test_checking_balance_of_closed_account_throws_error Coverage Results" MODIFIED="1547136121987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/bank-account" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_PangramTest_test_upper_and_lower_case_versions_of_the_same_character__2_.coverage" NAME="Unittest PangramTest.test_upper_and_lower_case_versions_of_the_same_character (2) Coverage Results" MODIFIED="1546876804396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/pangram" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_RnaTranscriptionTest_test_empty_rna_sequence.coverage" NAME="Unittest RnaTranscriptionTest.test_empty_rna_sequence Coverage Results" MODIFIED="1547403703038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
+    <SUITE FILE_PATH="coverage/Exercism$two_fer.coverage" NAME="two_fer Coverage Results" MODIFIED="1546966835374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_AcronymTest_test_very_long_abbreviation.coverage" NAME="Unittest AcronymTest.test_very_long_abbreviation Coverage Results" MODIFIED="1547462819946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HelloWorldTest_test_hello.coverage" NAME="Unittest HelloWorldTest.test_hello Coverage Results" MODIFIED="1546874842408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/hello-world" />
     <SUITE FILE_PATH="coverage/Exercism$bank_account.coverage" NAME="bank_account Coverage Results" MODIFIED="1547135912927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/bank-account" />
     <SUITE FILE_PATH="coverage/Exercism$robot_name.coverage" NAME="robot_name Coverage Results" MODIFIED="1546966590604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/robot-name" />
     <SUITE FILE_PATH="coverage/Exercism$dnd_character.coverage" NAME="dnd_character Coverage Results" MODIFIED="1547395112346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$pangram.coverage" NAME="pangram Coverage Results" MODIFIED="1546876792570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/pangram" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_leap_test.coverage" NAME="Unittests in leap_test Coverage Results" MODIFIED="1546967965362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/leap" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__2_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (2) Coverage Results" MODIFIED="1547395118733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_TwoFerTest_test_no_name_given.coverage" NAME="Unittest TwoFerTest.test_no_name_given Coverage Results" MODIFIED="1547403968842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_ReverseStringTest_test_empty_string.coverage" NAME="Unittest ReverseStringTest.test_empty_string Coverage Results" MODIFIED="1547045202867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/reverse-string" />
     <SUITE FILE_PATH="coverage/Exercism$rna_transcription.coverage" NAME="rna_transcription Coverage Results" MODIFIED="1547461345126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__4_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (4) Coverage Results" MODIFIED="1547394389016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_TwoFerTest_test_a_name_given.coverage" NAME="Unittest TwoFerTest.test_a_name_given Coverage Results" MODIFIED="1547403967579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_RobotNameTest.coverage" NAME="Unittests in RobotNameTest Coverage Results" MODIFIED="1546877828370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/robot-name" />
     <SUITE FILE_PATH="coverage/Exercism$gigasecond.coverage" NAME="gigasecond Coverage Results" MODIFIED="1547316431728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/gigasecond" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_SpaceAgeTest_test_age_on_venus.coverage" NAME="Unittest SpaceAgeTest.test_age_on_venus Coverage Results" MODIFIED="1547047519412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_modifier_for_score_10_is_0.coverage" NAME="Unittest DnDCharacterTest.test_modifier_for_score_10_is_0 Coverage Results" MODIFIED="1547394577044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_character_is_valid.coverage" NAME="Unittest DnDCharacterTest.test_random_character_is_valid Coverage Results" MODIFIED="1547394574449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_space_age_test.coverage" NAME="Unittests in space_age_test Coverage Results" MODIFIED="1547045432771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_GigasecondTest_test_date_only_specification_of_time__1_.coverage" NAME="Unittest GigasecondTest.test_date_only_specification_of_time (1) Coverage Results" MODIFIED="1547316432709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/gigasecond" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_ArmstrongNumbersTest_test_there_are_no_two_digit_armstrong_numbers.coverage" NAME="Unittest ArmstrongNumbersTest.test_there_are_no_two_digit_armstrong_numbers Coverage Results" MODIFIED="1546967425843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/armstrong-numbers" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_RnaTranscriptionTest_test_transcribes_cytosine_to_guanine.coverage" NAME="Unittest RnaTranscriptionTest.test_transcribes_cytosine_to_guanine Coverage Results" MODIFIED="1547461348665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
     <SUITE FILE_PATH="coverage/Exercism$armstrong_numbers.coverage" NAME="armstrong_numbers Coverage Results" MODIFIED="1546967321865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/armstrong-numbers" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_RobotNameTest_test_different_robots_have_different_names.coverage" NAME="Unittest RobotNameTest.test_different_robots_have_different_names Coverage Results" MODIFIED="1546966593825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/robot-name" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_RnaTranscriptionTest_test_transcribes_guanine_to_cytosine.coverage" NAME="Unittest RnaTranscriptionTest.test_transcribes_guanine_to_cytosine Coverage Results" MODIFIED="1547403701328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_TwoFerTest_test_another_name_given.coverage" NAME="Unittest TwoFerTest.test_another_name_given Coverage Results" MODIFIED="1547403966876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
     <SUITE FILE_PATH="coverage/Exercism$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1546874809152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/hello-world" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_LeapTest_test_year_divisible_by_100_not_divisible_by_400__1_.coverage" NAME="Unittest LeapTest.test_year_divisible_by_100_not_divisible_by_400 (1) Coverage Results" MODIFIED="1546968289026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/leap" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_SpaceAgeTest_test_age_on_mercury.coverage" NAME="Unittest SpaceAgeTest.test_age_on_mercury Coverage Results" MODIFIED="1547047722311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_GigasecondTest_test_date_only_specification_of_time.coverage" NAME="Unittest GigasecondTest.test_date_only_specification_of_time Coverage Results" MODIFIED="1547316410578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/gigasecond" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__1_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (1) Coverage Results" MODIFIED="1547394400868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range Coverage Results" MODIFIED="1547394391296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$leap.coverage" NAME="leap Coverage Results" MODIFIED="1546968190544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/leap" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_LeapTest_test_year_divisible_by_100_not_divisible_by_400.coverage" NAME="Unittest LeapTest.test_year_divisible_by_100_not_divisible_by_400 Coverage Results" MODIFIED="1546968193442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/leap" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittests_in_SpaceAgeTest.coverage" NAME="Unittests in SpaceAgeTest Coverage Results" MODIFIED="1547047526763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__3_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (3) Coverage Results" MODIFIED="1547394296459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_DnDCharacterTest.coverage" NAME="Unittests in DnDCharacterTest Coverage Results" MODIFIED="1547395081872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_two_fer_test.coverage" NAME="Unittests in two_fer_test Coverage Results" MODIFIED="1547403965810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_BankAccountTest_test_checking_balance_of_closed_account_throws_error.coverage" NAME="Unittest BankAccountTest.test_checking_balance_of_closed_account_throws_error Coverage Results" MODIFIED="1547136121987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/bank-account" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_PangramTest_test_upper_and_lower_case_versions_of_the_same_character__2_.coverage" NAME="Unittest PangramTest.test_upper_and_lower_case_versions_of_the_same_character (2) Coverage Results" MODIFIED="1546876804396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/pangram" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_AcronymTest_test_lowercase_words.coverage" NAME="Unittest AcronymTest.test_lowercase_words Coverage Results" MODIFIED="1547462815336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_PangramTest_test_upper_and_lower_case_versions_of_the_same_character.coverage" NAME="Unittest PangramTest.test_upper_and_lower_case_versions_of_the_same_character Coverage Results" MODIFIED="1546876734426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/pangram" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_RnaTranscriptionTest_test_empty_rna_sequence.coverage" NAME="Unittest RnaTranscriptionTest.test_empty_rna_sequence Coverage Results" MODIFIED="1547403703038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
-    <SUITE FILE_PATH="coverage/Exercism$two_fer.coverage" NAME="two_fer Coverage Results" MODIFIED="1546966835374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_AcronymTest_test_punctuation_without_whitespace.coverage" NAME="Unittest AcronymTest.test_punctuation_without_whitespace Coverage Results" MODIFIED="1547462714025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
     <SUITE FILE_PATH="coverage/Exercism$space_age.coverage" NAME="space_age Coverage Results" MODIFIED="1547047611004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -64,21 +72,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="rna_transcription.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/python/rna-transcription/rna_transcription.py">
+          <file leaf-file-name="acronym.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/python/acronym/acronym.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="two_fer.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/python/two-fer/two_fer.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="76">
-                  <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <state relative-caret-position="209">
+                  <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -88,11 +86,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="rna_transcription_test.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/python/rna-transcription/rna_transcription_test.py">
+          <file leaf-file-name="acronym_test.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/python/acronym/acronym_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+                <state relative-caret-position="475">
+                  <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
                   <folding>
                     <element signature="e#0#15#0" expanded="true" />
                   </folding>
@@ -131,6 +129,7 @@
         <option value="$PROJECT_DIR$/python/dnd-character/dnd_character_test.py" />
         <option value="$PROJECT_DIR$/python/dnd-character/dnd_character.py" />
         <option value="$PROJECT_DIR$/python/rna-transcription/rna_transcription.py" />
+        <option value="$PROJECT_DIR$/python/acronym/acronym.py" />
       </list>
     </option>
   </component>
@@ -176,10 +175,6 @@
               <option name="myItemId" value="python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="two-fer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -194,6 +189,10 @@
               <option name="myItemId" value="python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="acronym" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -206,108 +205,108 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittest RnaTranscriptionTest.test_transcribes_cytosine_to_guanine">
-    <configuration default="false" name="Unittest TwoFerTest.test_another_name_given" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/two-fer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Exercism" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/two-fer/two_fer_test.py" />
-      <option name="CLASS_NAME" value="TwoFerTest" />
-      <option name="METHOD_NAME" value="test_another_name_given" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest TwoFerTest.test_a_name_given" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/two-fer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Exercism" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/two-fer/two_fer_test.py" />
-      <option name="CLASS_NAME" value="TwoFerTest" />
-      <option name="METHOD_NAME" value="test_a_name_given" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest TwoFerTest.test_no_name_given" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/two-fer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Exercism" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/two-fer/two_fer_test.py" />
-      <option name="CLASS_NAME" value="TwoFerTest" />
-      <option name="METHOD_NAME" value="test_no_name_given" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="rna_transcription" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittest AcronymTest.test_very_long_abbreviation">
+    <configuration default="false" name="acronym" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/rna-transcription" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/acronym" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Exercism" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/rna-transcription/rna_transcription.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/acronym/acronym.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest RnaTranscriptionTest.test_transcribes_cytosine_to_guanine" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest AcronymTest.test_lowercase_words" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/rna-transcription" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/acronym" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Exercism" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/rna-transcription/rna_transcription_test.py" />
-      <option name="CLASS_NAME" value="RnaTranscriptionTest" />
-      <option name="METHOD_NAME" value="test_transcribes_cytosine_to_guanine" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/acronym/acronym_test.py" />
+      <option name="CLASS_NAME" value="AcronymTest" />
+      <option name="METHOD_NAME" value="test_lowercase_words" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest AcronymTest.test_punctuation_without_whitespace" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/acronym" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Exercism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/acronym/acronym_test.py" />
+      <option name="CLASS_NAME" value="AcronymTest" />
+      <option name="METHOD_NAME" value="test_punctuation_without_whitespace" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest AcronymTest.test_punctuation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/acronym" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Exercism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/acronym/acronym_test.py" />
+      <option name="CLASS_NAME" value="AcronymTest" />
+      <option name="METHOD_NAME" value="test_punctuation" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest AcronymTest.test_very_long_abbreviation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/acronym" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Exercism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/acronym/acronym_test.py" />
+      <option name="CLASS_NAME" value="AcronymTest" />
+      <option name="METHOD_NAME" value="test_very_long_abbreviation" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -532,19 +531,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TwoFerTest.test_another_name_given" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TwoFerTest.test_a_name_given" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TwoFerTest.test_no_name_given" />
-      <item index="3" class="java.lang.String" itemvalue="Python.rna_transcription" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest RnaTranscriptionTest.test_transcribes_cytosine_to_guanine" />
+      <item index="0" class="java.lang.String" itemvalue="Python.acronym" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest AcronymTest.test_lowercase_words" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest AcronymTest.test_punctuation_without_whitespace" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest AcronymTest.test_punctuation" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest AcronymTest.test_very_long_abbreviation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest RnaTranscriptionTest.test_transcribes_cytosine_to_guanine" />
-        <item index="1" class="java.lang.String" itemvalue="Python.rna_transcription" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TwoFerTest.test_no_name_given" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TwoFerTest.test_a_name_given" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TwoFerTest.test_another_name_given" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest AcronymTest.test_very_long_abbreviation" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest AcronymTest.test_lowercase_words" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest AcronymTest.test_punctuation" />
+        <item index="3" class="java.lang.String" itemvalue="Python.acronym" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest AcronymTest.test_punctuation_without_whitespace" />
       </list>
     </recent_temporary>
   </component>
@@ -562,35 +561,35 @@
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="Unittest_AcronymTest_test_lowercase_words - 2019.01.14 at 11h 31m 25s.xml">
+      <configuration name="Unittest AcronymTest.test_lowercase_words" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_AcronymTest_test_lowercase_words - 2019.01.14 at 11h 31m 27s.xml">
+      <configuration name="Unittest AcronymTest.test_lowercase_words" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_AcronymTest_test_lowercase_words - 2019.01.14 at 11h 46m 55s.xml">
+      <configuration name="Unittest AcronymTest.test_lowercase_words" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_AcronymTest_test_punctuation - 2019.01.14 at 11h 46m 10s.xml">
+      <configuration name="Unittest AcronymTest.test_punctuation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_AcronymTest_test_punctuation - 2019.01.14 at 11h 46m 11s.xml">
+      <configuration name="Unittest AcronymTest.test_punctuation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_AcronymTest_test_punctuation_without_whitespace - 2019.01.14 at 11h 45m 14s.xml">
+      <configuration name="Unittest AcronymTest.test_punctuation_without_whitespace" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_AcronymTest_test_very_long_abbreviation - 2019.01.14 at 11h 46m 58s.xml">
+      <configuration name="Unittest AcronymTest.test_very_long_abbreviation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_AcronymTest_test_very_long_abbreviation - 2019.01.14 at 11h 47m 00s.xml">
+      <configuration name="Unittest AcronymTest.test_very_long_abbreviation" configurationId="tests" />
+    </history-entry>
     <history-entry file="Unittest_RnaTranscriptionTest_test_transcribes_cytosine_to_guanine - 2019.01.14 at 11h 22m 28s.xml">
       <configuration name="Unittest RnaTranscriptionTest.test_transcribes_cytosine_to_guanine" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TwoFerTest_test_a_name_given - 2019.01.13 at 19h 26m 07s.xml">
-      <configuration name="Unittest TwoFerTest.test_a_name_given" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittest_TwoFerTest_test_another_name_given - 2019.01.13 at 19h 26m 07s.xml">
-      <configuration name="Unittest TwoFerTest.test_another_name_given" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittest_TwoFerTest_test_no_name_given - 2019.01.13 at 19h 26m 08s.xml">
       <configuration name="Unittest TwoFerTest.test_no_name_given" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_two_fer_test - 2019.01.13 at 19h 26m 00s.xml">
-      <configuration name="Unittests in two_fer_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_two_fer_test - 2019.01.13 at 19h 26m 01s.xml">
-      <configuration name="Unittests in two_fer_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_two_fer_test - 2019.01.13 at 19h 26m 02s.xml">
-      <configuration name="Unittests in two_fer_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_two_fer_test - 2019.01.13 at 19h 26m 03s.xml">
-      <configuration name="Unittests in two_fer_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_two_fer_test - 2019.01.13 at 19h 26m 04s.xml">
-      <configuration name="Unittests in two_fer_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_two_fer_test - 2019.01.13 at 19h 26m 05s.xml">
-      <configuration name="Unittests in two_fer_test" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -601,6 +600,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22970296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -613,7 +613,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -641,7 +640,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -892,16 +891,8 @@
         <state relative-caret-position="160">
           <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/two-fer/two_fer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -926,8 +917,34 @@
         <state relative-caret-position="228">
           <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
           <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/two-fer/two_fer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/acronym/acronym_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/acronym/acronym.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
