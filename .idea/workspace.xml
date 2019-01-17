@@ -13,6 +13,7 @@
     <SUITE FILE_PATH="coverage/Exercism$protein_translation.coverage" NAME="protein_translation Coverage Results" MODIFIED="1547555527193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/protein-translation" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__5_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (5) Coverage Results" MODIFIED="1547394390095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top_from_a_long_list.coverage" NAME="Unittest HighScoreTest.test_personal_top_from_a_long_list Coverage Results" MODIFIED="1547735210782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittests_in_high_scores_test.coverage" NAME="Unittests in high_scores_test Coverage Results" MODIFIED="1547746160439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_PangramTest_test_upper_and_lower_case_versions_of_the_same_character__1_.coverage" NAME="Unittest PangramTest.test_upper_and_lower_case_versions_of_the_same_character (1) Coverage Results" MODIFIED="1546876738166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/pangram" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__2_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (2) Coverage Results" MODIFIED="1547395118733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_TwoFerTest_test_no_name_given.coverage" NAME="Unittest TwoFerTest.test_no_name_given Coverage Results" MODIFIED="1547403968842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
@@ -53,6 +54,7 @@
     <SUITE FILE_PATH="coverage/Exercism$rna_transcription.coverage" NAME="rna_transcription Coverage Results" MODIFIED="1547461345126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__4_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (4) Coverage Results" MODIFIED="1547394389016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_TwoFerTest_test_a_name_given.coverage" NAME="Unittest TwoFerTest.test_a_name_given Coverage Results" MODIFIED="1547403967579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
+    <SUITE FILE_PATH="coverage/Exercism$largest_series_product.coverage" NAME="largest_series_product Coverage Results" MODIFIED="1547746151545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/largest-series-product" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_RobotNameTest.coverage" NAME="Unittests in RobotNameTest Coverage Results" MODIFIED="1546877828370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/robot-name" />
     <SUITE FILE_PATH="coverage/Exercism$gigasecond.coverage" NAME="gigasecond Coverage Results" MODIFIED="1547316431728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/gigasecond" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top.coverage" NAME="Unittest HighScoreTest.test_personal_top Coverage Results" MODIFIED="1547735200910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
@@ -72,7 +74,7 @@
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_DnDCharacterTest.coverage" NAME="Unittests in DnDCharacterTest Coverage Results" MODIFIED="1547395081872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_two_fer_test.coverage" NAME="Unittests in two_fer_test Coverage Results" MODIFIED="1547403965810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_AcronymTest_test_lowercase_words.coverage" NAME="Unittest AcronymTest.test_lowercase_words Coverage Results" MODIFIED="1547462815336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
-    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_message_for_repeated_personal_best.coverage" NAME="Unittest HighScoreTest.test_message_for_repeated_personal_best Coverage Results" MODIFIED="1547735214577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_message_for_repeated_personal_best.coverage" NAME="Unittest HighScoreTest.test_message_for_repeated_personal_best Coverage Results" MODIFIED="1547746159448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$yacht.coverage" NAME="yacht Coverage Results" MODIFIED="1547734442089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/yacht" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_PangramTest_test_upper_and_lower_case_versions_of_the_same_character.coverage" NAME="Unittest PangramTest.test_upper_and_lower_case_versions_of_the_same_character Coverage Results" MODIFIED="1546876734426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/pangram" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_AcronymTest_test_punctuation_without_whitespace.coverage" NAME="Unittest AcronymTest.test_punctuation_without_whitespace Coverage Results" MODIFIED="1547462714025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
@@ -87,8 +89,8 @@
       <file leaf-file-name="high_scores_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python/high-scores/high_scores_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1273">
-              <caret line="67" column="12" lean-forward="true" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+            <state relative-caret-position="38">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -96,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="high_scores.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/high-scores/high_scores.py">
+      <file leaf-file-name="largest_series_product.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/largest-series-product/largest_series_product.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="72" lean-forward="false" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+            <state relative-caret-position="133">
+              <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -151,6 +153,7 @@
         <option value="$PROJECT_DIR$/python/high-scores/README.md" />
         <option value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
         <option value="$PROJECT_DIR$/python/high-scores/high_scores.py" />
+        <option value="$PROJECT_DIR$/python/largest-series-product/largest_series_product.py" />
       </list>
     </option>
   </component>
@@ -210,7 +213,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="high-scores" />
+              <option name="myItemId" value="largest-series-product" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -226,53 +229,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittest HighScoreTest.test_message_for_repeated_personal_best">
-    <configuration default="false" name="Unittest HighScoreTest.test_personal_top_when_there_is_only_one" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/high-scores" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Exercism" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
-      <option name="CLASS_NAME" value="HighScoreTest" />
-      <option name="METHOD_NAME" value="test_personal_top_when_there_is_only_one" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest HighScoreTest.test_personal_top_from_a_long_list" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/high-scores" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Exercism" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
-      <option name="CLASS_NAME" value="HighScoreTest" />
-      <option name="METHOD_NAME" value="test_personal_top_from_a_long_list" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in high_scores_test">
     <configuration default="false" name="Unittest HighScoreTest.test_message_for_new_personal_best" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,6 +292,47 @@
       <option name="METHOD_NAME" value="test_message_for_repeated_personal_best" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="largest_series_product" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/largest-series-product" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Exercism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/largest-series-product/largest_series_product.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in high_scores_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/high-scores" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Exercism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -557,19 +555,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_personal_top_when_there_is_only_one" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_personal_top_from_a_long_list" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_new_personal_best" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_repeated_personal_best" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_new_personal_best" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_repeated_personal_best" />
+      <item index="3" class="java.lang.String" itemvalue="Python.largest_series_product" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in high_scores_test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_repeated_personal_best" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_new_personal_best" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_personal_top_from_a_long_list" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_personal_top_when_there_is_only_one" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in high_scores_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_repeated_personal_best" />
+        <item index="2" class="java.lang.String" itemvalue="Python.largest_series_product" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_new_personal_best" />
       </list>
     </recent_temporary>
   </component>
@@ -593,29 +591,29 @@
     <history-entry file="Unittest_HighScoreTest_test_message_for_repeated_personal_best - 2019.01.17 at 15h 26m 54s.xml">
       <configuration name="Unittest HighScoreTest.test_message_for_repeated_personal_best" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittest_HighScoreTest_test_message_for_repeated_personal_best - 2019.01.17 at 18h 29m 17s.xml">
+      <configuration name="Unittest HighScoreTest.test_message_for_repeated_personal_best" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_HighScoreTest_test_message_for_repeated_personal_best - 2019.01.17 at 18h 29m 18s.xml">
+      <configuration name="Unittest HighScoreTest.test_message_for_repeated_personal_best" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_HighScoreTest_test_message_for_repeated_personal_best - 2019.01.17 at 18h 29m 19s.xml">
+      <configuration name="Unittest HighScoreTest.test_message_for_repeated_personal_best" configurationId="tests" />
+    </history-entry>
     <history-entry file="Unittest_HighScoreTest_test_message_when_latest_score_is_not_the_highest_score - 2019.01.17 at 15h 26m 54s.xml">
       <configuration name="Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittest_HighScoreTest_test_personal_top - 2019.01.17 at 15h 26m 41s.xml">
-      <configuration name="Unittest HighScoreTest.test_personal_top" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittest_HighScoreTest_test_personal_top_from_a_long_list - 2019.01.17 at 15h 26m 50s.xml">
       <configuration name="Unittest HighScoreTest.test_personal_top_from_a_long_list" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_HighScoreTest_test_personal_top_highest_to_lowest - 2019.01.17 at 15h 26m 42s.xml">
-      <configuration name="Unittest HighScoreTest.test_personal_top_highest_to_lowest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittest_HighScoreTest_test_personal_top_highest_to_lowest - 2019.01.17 at 15h 26m 44s.xml">
-      <configuration name="Unittest HighScoreTest.test_personal_top_highest_to_lowest" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittest_HighScoreTest_test_personal_top_when_there_are_less_than_3 - 2019.01.17 at 15h 26m 48s.xml">
       <configuration name="Unittest HighScoreTest.test_personal_top_when_there_are_less_than_3" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_HighScoreTest_test_personal_top_when_there_is_a_tie - 2019.01.17 at 15h 26m 46s.xml">
-      <configuration name="Unittest HighScoreTest.test_personal_top_when_there_is_a_tie" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittest_HighScoreTest_test_personal_top_when_there_is_only_one - 2019.01.17 at 15h 26m 49s.xml">
       <configuration name="Unittest HighScoreTest.test_personal_top_when_there_is_only_one" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_high_scores_test - 2019.01.17 at 18h 29m 20s.xml">
+      <configuration name="Unittests in high_scores_test" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -653,13 +651,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python/space-age/space_age.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="31" lean-forward="false" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/space-age/space_age_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -958,14 +949,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/high-scores/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/high-scores/high_scores.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -974,10 +957,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python/high-scores/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/largest-series-product/largest_series_product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python/high-scores/high_scores_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1273">
-          <caret line="67" column="12" lean-forward="true" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+        <state relative-caret-position="38">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
