@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86c3762e-c6f8-40d5-a9f6-70050a04ad14" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="86c3762e-c6f8-40d5-a9f6-70050a04ad14" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,21 +12,27 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Exercism$protein_translation.coverage" NAME="protein_translation Coverage Results" MODIFIED="1547555527193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/protein-translation" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__5_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (5) Coverage Results" MODIFIED="1547394390095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top_from_a_long_list.coverage" NAME="Unittest HighScoreTest.test_personal_top_from_a_long_list Coverage Results" MODIFIED="1547735210782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_PangramTest_test_upper_and_lower_case_versions_of_the_same_character__1_.coverage" NAME="Unittest PangramTest.test_upper_and_lower_case_versions_of_the_same_character (1) Coverage Results" MODIFIED="1546876738166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/pangram" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__2_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (2) Coverage Results" MODIFIED="1547395118733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_TwoFerTest_test_no_name_given.coverage" NAME="Unittest TwoFerTest.test_no_name_given Coverage Results" MODIFIED="1547403968842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
+    <SUITE FILE_PATH="coverage/Exercism$high_scores.coverage" NAME="high_scores Coverage Results" MODIFIED="1547735166627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_ReverseStringTest_test_empty_string.coverage" NAME="Unittest ReverseStringTest.test_empty_string Coverage Results" MODIFIED="1547045202867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/reverse-string" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_AcronymTest_test_punctuation.coverage" NAME="Unittest AcronymTest.test_punctuation Coverage Results" MODIFIED="1547462771539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_SpaceAgeTest_test_age_on_venus.coverage" NAME="Unittest SpaceAgeTest.test_age_on_venus Coverage Results" MODIFIED="1547047519412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_modifier_for_score_10_is_0.coverage" NAME="Unittest DnDCharacterTest.test_modifier_for_score_10_is_0 Coverage Results" MODIFIED="1547394577044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_GigasecondTest_test_date_only_specification_of_time__1_.coverage" NAME="Unittest GigasecondTest.test_date_only_specification_of_time (1) Coverage Results" MODIFIED="1547316432709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/gigasecond" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_ArmstrongNumbersTest_test_there_are_no_two_digit_armstrong_numbers.coverage" NAME="Unittest ArmstrongNumbersTest.test_there_are_no_two_digit_armstrong_numbers Coverage Results" MODIFIED="1546967425843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/armstrong-numbers" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_message_when_latest_score_is_not_the_highest_score.coverage" NAME="Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score Coverage Results" MODIFIED="1547735213887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$acronym.coverage" NAME="acronym Coverage Results" MODIFIED="1547462769161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_RnaTranscriptionTest_test_transcribes_guanine_to_cytosine.coverage" NAME="Unittest RnaTranscriptionTest.test_transcribes_guanine_to_cytosine Coverage Results" MODIFIED="1547403701328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_TwoFerTest_test_another_name_given.coverage" NAME="Unittest TwoFerTest.test_another_name_given Coverage Results" MODIFIED="1547403966876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_yacht_test.coverage" NAME="Unittests in yacht_test Coverage Results" MODIFIED="1547734268293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/yacht" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top_when_there_is_a_tie.coverage" NAME="Unittest HighScoreTest.test_personal_top_when_there_is_a_tie Coverage Results" MODIFIED="1547735206506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_LeapTest_test_year_divisible_by_100_not_divisible_by_400__1_.coverage" NAME="Unittest LeapTest.test_year_divisible_by_100_not_divisible_by_400 (1) Coverage Results" MODIFIED="1546968289026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/leap" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_GigasecondTest_test_date_only_specification_of_time.coverage" NAME="Unittest GigasecondTest.test_date_only_specification_of_time Coverage Results" MODIFIED="1547316410578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/gigasecond" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_list_of_scores.coverage" NAME="Unittest HighScoreTest.test_list_of_scores Coverage Results" MODIFIED="1547735197955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_best.coverage" NAME="Unittest HighScoreTest.test_personal_best Coverage Results" MODIFIED="1547735200103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range Coverage Results" MODIFIED="1547394391296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_SpaceAgeTest.coverage" NAME="Unittests in SpaceAgeTest Coverage Results" MODIFIED="1547047526763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__3_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (3) Coverage Results" MODIFIED="1547394296459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
@@ -39,21 +43,27 @@
     <SUITE FILE_PATH="coverage/Exercism$two_fer.coverage" NAME="two_fer Coverage Results" MODIFIED="1546966835374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_AcronymTest_test_very_long_abbreviation.coverage" NAME="Unittest AcronymTest.test_very_long_abbreviation Coverage Results" MODIFIED="1547462819946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_HelloWorldTest_test_hello.coverage" NAME="Unittest HelloWorldTest.test_hello Coverage Results" MODIFIED="1546874842408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/hello-world" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top_when_there_are_less_than_3.coverage" NAME="Unittest HighScoreTest.test_personal_top_when_there_are_less_than_3 Coverage Results" MODIFIED="1547735207885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$bank_account.coverage" NAME="bank_account Coverage Results" MODIFIED="1547135912927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/bank-account" />
     <SUITE FILE_PATH="coverage/Exercism$robot_name.coverage" NAME="robot_name Coverage Results" MODIFIED="1546966590604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/robot-name" />
     <SUITE FILE_PATH="coverage/Exercism$dnd_character.coverage" NAME="dnd_character Coverage Results" MODIFIED="1547395112346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$pangram.coverage" NAME="pangram Coverage Results" MODIFIED="1546876792570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/pangram" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_leap_test.coverage" NAME="Unittests in leap_test Coverage Results" MODIFIED="1546967965362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/leap" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_message_for_new_personal_best.coverage" NAME="Unittest HighScoreTest.test_message_for_new_personal_best Coverage Results" MODIFIED="1547735211998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$rna_transcription.coverage" NAME="rna_transcription Coverage Results" MODIFIED="1547461345126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__4_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (4) Coverage Results" MODIFIED="1547394389016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_TwoFerTest_test_a_name_given.coverage" NAME="Unittest TwoFerTest.test_a_name_given Coverage Results" MODIFIED="1547403967579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_RobotNameTest.coverage" NAME="Unittests in RobotNameTest Coverage Results" MODIFIED="1546877828370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/robot-name" />
     <SUITE FILE_PATH="coverage/Exercism$gigasecond.coverage" NAME="gigasecond Coverage Results" MODIFIED="1547316431728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/gigasecond" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top.coverage" NAME="Unittest HighScoreTest.test_personal_top Coverage Results" MODIFIED="1547735200910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_character_is_valid.coverage" NAME="Unittest DnDCharacterTest.test_random_character_is_valid Coverage Results" MODIFIED="1547394574449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_space_age_test.coverage" NAME="Unittests in space_age_test Coverage Results" MODIFIED="1547045432771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top_when_there_is_only_one.coverage" NAME="Unittest HighScoreTest.test_personal_top_when_there_is_only_one Coverage Results" MODIFIED="1547735209329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_RnaTranscriptionTest_test_transcribes_cytosine_to_guanine.coverage" NAME="Unittest RnaTranscriptionTest.test_transcribes_cytosine_to_guanine Coverage Results" MODIFIED="1547461348665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
     <SUITE FILE_PATH="coverage/Exercism$armstrong_numbers.coverage" NAME="armstrong_numbers Coverage Results" MODIFIED="1546967321865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/armstrong-numbers" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_RobotNameTest_test_different_robots_have_different_names.coverage" NAME="Unittest RobotNameTest.test_different_robots_have_different_names Coverage Results" MODIFIED="1546966593825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/robot-name" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top_highest_to_lowest.coverage" NAME="Unittest HighScoreTest.test_personal_top_highest_to_lowest Coverage Results" MODIFIED="1547735204567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_latest_score.coverage" NAME="Unittest HighScoreTest.test_latest_score Coverage Results" MODIFIED="1547735198690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1546874809152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/hello-world" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_SpaceAgeTest_test_age_on_mercury.coverage" NAME="Unittest SpaceAgeTest.test_age_on_mercury Coverage Results" MODIFIED="1547047722311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__1_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (1) Coverage Results" MODIFIED="1547394400868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
@@ -62,6 +72,7 @@
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_DnDCharacterTest.coverage" NAME="Unittests in DnDCharacterTest Coverage Results" MODIFIED="1547395081872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_two_fer_test.coverage" NAME="Unittests in two_fer_test Coverage Results" MODIFIED="1547403965810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_AcronymTest_test_lowercase_words.coverage" NAME="Unittest AcronymTest.test_lowercase_words Coverage Results" MODIFIED="1547462815336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_message_for_repeated_personal_best.coverage" NAME="Unittest HighScoreTest.test_message_for_repeated_personal_best Coverage Results" MODIFIED="1547735214577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$yacht.coverage" NAME="yacht Coverage Results" MODIFIED="1547734442089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/yacht" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_PangramTest_test_upper_and_lower_case_versions_of_the_same_character.coverage" NAME="Unittest PangramTest.test_upper_and_lower_case_versions_of_the_same_character Coverage Results" MODIFIED="1546876734426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/pangram" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_AcronymTest_test_punctuation_without_whitespace.coverage" NAME="Unittest AcronymTest.test_punctuation_without_whitespace Coverage Results" MODIFIED="1547462714025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
@@ -72,48 +83,40 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="yacht.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/python/yacht/yacht.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1463">
-                  <caret line="77" column="30" lean-forward="false" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="yacht_test.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/python/yacht/yacht_test.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="250">
-                  <caret line="72" column="8" lean-forward="false" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
-                  <folding>
-                    <element signature="e#0#15#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/python/yacht/README.md">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="high_scores_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/high-scores/high_scores_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1273">
+              <caret line="67" column="12" lean-forward="true" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="high_scores.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/high-scores/high_scores.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="72" lean-forward="false" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/high-scores/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -145,6 +148,9 @@
         <option value="$PROJECT_DIR$/python/acronym/acronym.py" />
         <option value="$PROJECT_DIR$/python/protein-translation/protein_translation.py" />
         <option value="$PROJECT_DIR$/python/yacht/yacht.py" />
+        <option value="$PROJECT_DIR$/python/high-scores/README.md" />
+        <option value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
+        <option value="$PROJECT_DIR$/python/high-scores/high_scores.py" />
       </list>
     </option>
   </component>
@@ -189,10 +195,6 @@
               <option name="myItemId" value="python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yacht" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -205,6 +207,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="high-scores" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,21 +226,21 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittest YachtTest.test_no_pairs_but_not_a_little_straight">
-    <configuration default="false" name="Unittest AcronymTest.test_very_long_abbreviation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittest HighScoreTest.test_message_for_repeated_personal_best">
+    <configuration default="false" name="Unittest HighScoreTest.test_personal_top_when_there_is_only_one" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/acronym" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/high-scores" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Exercism" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/acronym/acronym_test.py" />
-      <option name="CLASS_NAME" value="AcronymTest" />
-      <option name="METHOD_NAME" value="test_very_long_abbreviation" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
+      <option name="CLASS_NAME" value="HighScoreTest" />
+      <option name="METHOD_NAME" value="test_personal_top_when_there_is_only_one" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -244,58 +250,22 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="protein_translation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/protein-translation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Exercism" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/protein-translation/protein_translation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="yacht" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/yacht" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Exercism" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/yacht/yacht.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in yacht_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest HighScoreTest.test_personal_top_from_a_long_list" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/yacht" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/high-scores" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Exercism" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/yacht/yacht_test.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
+      <option name="CLASS_NAME" value="HighScoreTest" />
+      <option name="METHOD_NAME" value="test_personal_top_from_a_long_list" />
       <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -303,20 +273,66 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest YachtTest.test_no_pairs_but_not_a_little_straight" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest HighScoreTest.test_message_for_new_personal_best" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/yacht" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/high-scores" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Exercism" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/yacht/yacht_test.py" />
-      <option name="CLASS_NAME" value="YachtTest" />
-      <option name="METHOD_NAME" value="test_no_pairs_but_not_a_little_straight" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
+      <option name="CLASS_NAME" value="HighScoreTest" />
+      <option name="METHOD_NAME" value="test_message_for_new_personal_best" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/high-scores" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Exercism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
+      <option name="CLASS_NAME" value="HighScoreTest" />
+      <option name="METHOD_NAME" value="test_message_when_latest_score_is_not_the_highest_score" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest HighScoreTest.test_message_for_repeated_personal_best" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/high-scores" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Exercism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
+      <option name="CLASS_NAME" value="HighScoreTest" />
+      <option name="METHOD_NAME" value="test_message_for_repeated_personal_best" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -541,19 +557,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest AcronymTest.test_very_long_abbreviation" />
-      <item index="1" class="java.lang.String" itemvalue="Python.protein_translation" />
-      <item index="2" class="java.lang.String" itemvalue="Python.yacht" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in yacht_test" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest YachtTest.test_no_pairs_but_not_a_little_straight" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_personal_top_when_there_is_only_one" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_personal_top_from_a_long_list" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_new_personal_best" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_repeated_personal_best" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest YachtTest.test_no_pairs_but_not_a_little_straight" />
-        <item index="1" class="java.lang.String" itemvalue="Python.yacht" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in yacht_test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.protein_translation" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest AcronymTest.test_very_long_abbreviation" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_repeated_personal_best" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_new_personal_best" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_personal_top_from_a_long_list" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_personal_top_when_there_is_only_one" />
       </list>
     </recent_temporary>
   </component>
@@ -571,42 +587,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_YachtTest_test_no_pairs_but_not_a_little_straight - 2019.01.17 at 15h 12m 01s.xml">
-      <configuration name="Unittest YachtTest.test_no_pairs_but_not_a_little_straight" configurationId="tests" />
+    <history-entry file="Unittest_HighScoreTest_test_message_for_new_personal_best - 2019.01.17 at 15h 26m 52s.xml">
+      <configuration name="Unittest HighScoreTest.test_message_for_new_personal_best" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_YachtTest_test_no_pairs_but_not_a_little_straight - 2019.01.17 at 15h 12m 12s.xml">
-      <configuration name="Unittest YachtTest.test_no_pairs_but_not_a_little_straight" configurationId="tests" />
+    <history-entry file="Unittest_HighScoreTest_test_message_for_repeated_personal_best - 2019.01.17 at 15h 26m 54s.xml">
+      <configuration name="Unittest HighScoreTest.test_message_for_repeated_personal_best" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_YachtTest_test_no_pairs_but_not_a_little_straight - 2019.01.17 at 15h 12m 35s.xml">
-      <configuration name="Unittest YachtTest.test_no_pairs_but_not_a_little_straight" configurationId="tests" />
+    <history-entry file="Unittest_HighScoreTest_test_message_when_latest_score_is_not_the_highest_score - 2019.01.17 at 15h 26m 54s.xml">
+      <configuration name="Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_YachtTest_test_no_pairs_but_not_a_little_straight - 2019.01.17 at 15h 13m 21s.xml">
-      <configuration name="Unittest YachtTest.test_no_pairs_but_not_a_little_straight" configurationId="tests" />
+    <history-entry file="Unittest_HighScoreTest_test_personal_top - 2019.01.17 at 15h 26m 41s.xml">
+      <configuration name="Unittest HighScoreTest.test_personal_top" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_YachtTest_test_no_pairs_but_not_a_little_straight - 2019.01.17 at 15h 13m 22s.xml">
-      <configuration name="Unittest YachtTest.test_no_pairs_but_not_a_little_straight" configurationId="tests" />
+    <history-entry file="Unittest_HighScoreTest_test_personal_top_from_a_long_list - 2019.01.17 at 15h 26m 50s.xml">
+      <configuration name="Unittest HighScoreTest.test_personal_top_from_a_long_list" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_YachtTest_test_no_pairs_but_not_a_little_straight - 2019.01.17 at 15h 14m 04s.xml">
-      <configuration name="Unittest YachtTest.test_no_pairs_but_not_a_little_straight" configurationId="tests" />
+    <history-entry file="Unittest_HighScoreTest_test_personal_top_highest_to_lowest - 2019.01.17 at 15h 26m 42s.xml">
+      <configuration name="Unittest HighScoreTest.test_personal_top_highest_to_lowest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_YachtTest_test_no_pairs_but_not_a_little_straight - 2019.01.17 at 15h 14m 05s.xml">
-      <configuration name="Unittest YachtTest.test_no_pairs_but_not_a_little_straight" configurationId="tests" />
+    <history-entry file="Unittest_HighScoreTest_test_personal_top_highest_to_lowest - 2019.01.17 at 15h 26m 44s.xml">
+      <configuration name="Unittest HighScoreTest.test_personal_top_highest_to_lowest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_YachtTest_test_no_pairs_but_not_a_little_straight - 2019.01.17 at 15h 14m 06s.xml">
-      <configuration name="Unittest YachtTest.test_no_pairs_but_not_a_little_straight" configurationId="tests" />
+    <history-entry file="Unittest_HighScoreTest_test_personal_top_when_there_are_less_than_3 - 2019.01.17 at 15h 26m 48s.xml">
+      <configuration name="Unittest HighScoreTest.test_personal_top_when_there_are_less_than_3" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_yacht_test - 2019.01.17 at 15h 11m 07s.xml">
-      <configuration name="Unittests in yacht_test" configurationId="tests" />
+    <history-entry file="Unittest_HighScoreTest_test_personal_top_when_there_is_a_tie - 2019.01.17 at 15h 26m 46s.xml">
+      <configuration name="Unittest HighScoreTest.test_personal_top_when_there_is_a_tie" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_yacht_test - 2019.01.17 at 15h 11m 08s.xml">
-      <configuration name="Unittests in yacht_test" configurationId="tests" />
+    <history-entry file="Unittest_HighScoreTest_test_personal_top_when_there_is_only_one - 2019.01.17 at 15h 26m 49s.xml">
+      <configuration name="Unittest HighScoreTest.test_personal_top_when_there_is_only_one" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1080" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18745036" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18745036" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -637,27 +653,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python/dnd-character/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/gigasecond/gigasecond.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/gigasecond/gigasecond_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/space-age/space_age.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -923,14 +918,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/yacht/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/protein-translation/protein_translation_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="712">
@@ -945,6 +932,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python/yacht/yacht.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python/yacht/yacht_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -955,11 +950,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/yacht/yacht.py">
+    <entry file="file://$PROJECT_DIR$/python/yacht/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1463">
-          <caret line="77" column="30" lean-forward="false" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/high-scores/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/high-scores/high_scores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="72" lean-forward="false" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/high-scores/high_scores_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="12" lean-forward="true" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
