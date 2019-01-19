@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86c3762e-c6f8-40d5-a9f6-70050a04ad14" name="Default" comment="" />
+    <list default="true" id="86c3762e-c6f8-40d5-a9f6-70050a04ad14" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,21 +12,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_MatrixTest_test_can_extract_column__2_.coverage" NAME="Unittest MatrixTest.test_can_extract_column (2) Coverage Results" MODIFIED="1547915041740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/matrix" />
     <SUITE FILE_PATH="coverage/Exercism$protein_translation.coverage" NAME="protein_translation Coverage Results" MODIFIED="1547555527193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/protein-translation" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__5_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (5) Coverage Results" MODIFIED="1547394390095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top_from_a_long_list.coverage" NAME="Unittest HighScoreTest.test_personal_top_from_a_long_list Coverage Results" MODIFIED="1547735210782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_high_scores_test.coverage" NAME="Unittests in high_scores_test Coverage Results" MODIFIED="1547746160439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_PangramTest_test_upper_and_lower_case_versions_of_the_same_character__1_.coverage" NAME="Unittest PangramTest.test_upper_and_lower_case_versions_of_the_same_character (1) Coverage Results" MODIFIED="1546876738166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/pangram" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_MatrixTest_test_can_extract_row_from_non_square_matrix.coverage" NAME="Unittest MatrixTest.test_can_extract_row_from_non_square_matrix Coverage Results" MODIFIED="1547915023935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/matrix" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__2_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (2) Coverage Results" MODIFIED="1547395118733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_MatrixTest_test_can_extract_column_from_non_square_matrix.coverage" NAME="Unittest MatrixTest.test_can_extract_column_from_non_square_matrix Coverage Results" MODIFIED="1547915028309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/matrix" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_TwoFerTest_test_no_name_given.coverage" NAME="Unittest TwoFerTest.test_no_name_given Coverage Results" MODIFIED="1547403968842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
     <SUITE FILE_PATH="coverage/Exercism$high_scores.coverage" NAME="high_scores Coverage Results" MODIFIED="1547735166627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_ReverseStringTest_test_empty_string.coverage" NAME="Unittest ReverseStringTest.test_empty_string Coverage Results" MODIFIED="1547045202867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/reverse-string" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_MatrixTest_test_can_extract_column__5_.coverage" NAME="Unittest MatrixTest.test_can_extract_column (5) Coverage Results" MODIFIED="1547915039985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/matrix" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_AcronymTest_test_punctuation.coverage" NAME="Unittest AcronymTest.test_punctuation Coverage Results" MODIFIED="1547462771539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_SpaceAgeTest_test_age_on_venus.coverage" NAME="Unittest SpaceAgeTest.test_age_on_venus Coverage Results" MODIFIED="1547047519412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_modifier_for_score_10_is_0.coverage" NAME="Unittest DnDCharacterTest.test_modifier_for_score_10_is_0 Coverage Results" MODIFIED="1547394577044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_GigasecondTest_test_date_only_specification_of_time__1_.coverage" NAME="Unittest GigasecondTest.test_date_only_specification_of_time (1) Coverage Results" MODIFIED="1547316432709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/gigasecond" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_ArmstrongNumbersTest_test_there_are_no_two_digit_armstrong_numbers.coverage" NAME="Unittest ArmstrongNumbersTest.test_there_are_no_two_digit_armstrong_numbers Coverage Results" MODIFIED="1546967425843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/armstrong-numbers" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_message_when_latest_score_is_not_the_highest_score.coverage" NAME="Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score Coverage Results" MODIFIED="1547735213887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
+    <SUITE FILE_PATH="coverage/Exercism$matrix.coverage" NAME="matrix Coverage Results" MODIFIED="1547914993545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/matrix" />
     <SUITE FILE_PATH="coverage/Exercism$acronym.coverage" NAME="acronym Coverage Results" MODIFIED="1547462769161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_RnaTranscriptionTest_test_transcribes_guanine_to_cytosine.coverage" NAME="Unittest RnaTranscriptionTest.test_transcribes_guanine_to_cytosine Coverage Results" MODIFIED="1547403701328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_TwoFerTest_test_another_name_given.coverage" NAME="Unittest TwoFerTest.test_another_name_given Coverage Results" MODIFIED="1547403966876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
@@ -34,6 +41,7 @@
     <SUITE FILE_PATH="coverage/Exercism$Unittest_GigasecondTest_test_date_only_specification_of_time.coverage" NAME="Unittest GigasecondTest.test_date_only_specification_of_time Coverage Results" MODIFIED="1547316410578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/gigasecond" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_list_of_scores.coverage" NAME="Unittest HighScoreTest.test_list_of_scores Coverage Results" MODIFIED="1547735197955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_best.coverage" NAME="Unittest HighScoreTest.test_personal_best Coverage Results" MODIFIED="1547735200103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_MatrixTest_test_can_extract_column__1_.coverage" NAME="Unittest MatrixTest.test_can_extract_column (1) Coverage Results" MODIFIED="1547915041202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/matrix" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range Coverage Results" MODIFIED="1547394391296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_SpaceAgeTest.coverage" NAME="Unittests in SpaceAgeTest Coverage Results" MODIFIED="1547047526763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_ability_is_within_range__3_.coverage" NAME="Unittest DnDCharacterTest.test_random_ability_is_within_range (3) Coverage Results" MODIFIED="1547394296459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
@@ -42,7 +50,9 @@
     <SUITE FILE_PATH="coverage/Exercism$Unittest_YachtTest_test_no_pairs_but_not_a_little_straight.coverage" NAME="Unittest YachtTest.test_no_pairs_but_not_a_little_straight Coverage Results" MODIFIED="1547734446300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/yacht" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_RnaTranscriptionTest_test_empty_rna_sequence.coverage" NAME="Unittest RnaTranscriptionTest.test_empty_rna_sequence Coverage Results" MODIFIED="1547403703038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
     <SUITE FILE_PATH="coverage/Exercism$two_fer.coverage" NAME="two_fer Coverage Results" MODIFIED="1546966835374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/two-fer" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_MatrixTest_test_can_extract_column__4_.coverage" NAME="Unittest MatrixTest.test_can_extract_column (4) Coverage Results" MODIFIED="1547915039431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/matrix" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_AcronymTest_test_very_long_abbreviation.coverage" NAME="Unittest AcronymTest.test_very_long_abbreviation Coverage Results" MODIFIED="1547462819946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/acronym" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_MatrixTest_test_can_extract_column.coverage" NAME="Unittest MatrixTest.test_can_extract_column Coverage Results" MODIFIED="1547915040602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/matrix" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_HelloWorldTest_test_hello.coverage" NAME="Unittest HelloWorldTest.test_hello Coverage Results" MODIFIED="1546874842408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/hello-world" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top_when_there_are_less_than_3.coverage" NAME="Unittest HighScoreTest.test_personal_top_when_there_are_less_than_3 Coverage Results" MODIFIED="1547735207885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$bank_account.coverage" NAME="bank_account Coverage Results" MODIFIED="1547135912927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/bank-account" />
@@ -60,8 +70,10 @@
     <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top.coverage" NAME="Unittest HighScoreTest.test_personal_top Coverage Results" MODIFIED="1547735200910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_DnDCharacterTest_test_random_character_is_valid.coverage" NAME="Unittest DnDCharacterTest.test_random_character_is_valid Coverage Results" MODIFIED="1547394574449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/dnd-character" />
     <SUITE FILE_PATH="coverage/Exercism$Unittests_in_space_age_test.coverage" NAME="Unittests in space_age_test Coverage Results" MODIFIED="1547045432771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/space-age" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_MatrixTest_test_extract_column_where_numbers_have_different_widths.coverage" NAME="Unittest MatrixTest.test_extract_column_where_numbers_have_different_widths Coverage Results" MODIFIED="1547915045172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/matrix" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top_when_there_is_only_one.coverage" NAME="Unittest HighScoreTest.test_personal_top_when_there_is_only_one Coverage Results" MODIFIED="1547735209329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_RnaTranscriptionTest_test_transcribes_cytosine_to_guanine.coverage" NAME="Unittest RnaTranscriptionTest.test_transcribes_cytosine_to_guanine Coverage Results" MODIFIED="1547461348665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/rna-transcription" />
+    <SUITE FILE_PATH="coverage/Exercism$Unittest_MatrixTest_test_can_extract_column__3_.coverage" NAME="Unittest MatrixTest.test_can_extract_column (3) Coverage Results" MODIFIED="1547915038814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/matrix" />
     <SUITE FILE_PATH="coverage/Exercism$armstrong_numbers.coverage" NAME="armstrong_numbers Coverage Results" MODIFIED="1546967321865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/armstrong-numbers" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_RobotNameTest_test_different_robots_have_different_names.coverage" NAME="Unittest RobotNameTest.test_different_robots_have_different_names Coverage Results" MODIFIED="1546966593825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/robot-name" />
     <SUITE FILE_PATH="coverage/Exercism$Unittest_HighScoreTest_test_personal_top_highest_to_lowest.coverage" NAME="Unittest HighScoreTest.test_personal_top_highest_to_lowest Coverage Results" MODIFIED="1547735204567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/high-scores" />
@@ -86,34 +98,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="high_scores_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/high-scores/high_scores_test.py">
+      <file leaf-file-name="matrix.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/matrix/matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="380">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="matrix_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/matrix/matrix_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="largest_series_product.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/largest-series-product/largest_series_product.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/high-scores/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -154,6 +156,8 @@
         <option value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
         <option value="$PROJECT_DIR$/python/high-scores/high_scores.py" />
         <option value="$PROJECT_DIR$/python/largest-series-product/largest_series_product.py" />
+        <option value="$PROJECT_DIR$/python/matrix/matrix_test.py" />
+        <option value="$PROJECT_DIR$/python/matrix/matrix.py" />
       </list>
     </option>
   </component>
@@ -182,7 +186,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -213,13 +217,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="largest-series-product" />
+              <option name="myItemId" value="matrix" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,21 +233,21 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in high_scores_test">
-    <configuration default="false" name="Unittest HighScoreTest.test_message_for_new_personal_best" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittest MatrixTest.test_extract_column_where_numbers_have_different_widths">
+    <configuration default="false" name="Unittest MatrixTest.test_can_extract_column (5)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/high-scores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/matrix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Exercism" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
-      <option name="CLASS_NAME" value="HighScoreTest" />
-      <option name="METHOD_NAME" value="test_message_for_new_personal_best" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/matrix/matrix_test.py" />
+      <option name="CLASS_NAME" value="MatrixTest" />
+      <option name="METHOD_NAME" value="test_can_extract_column" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -253,20 +257,20 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest MatrixTest.test_can_extract_column" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/high-scores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/matrix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Exercism" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
-      <option name="CLASS_NAME" value="HighScoreTest" />
-      <option name="METHOD_NAME" value="test_message_when_latest_score_is_not_the_highest_score" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/matrix/matrix_test.py" />
+      <option name="CLASS_NAME" value="MatrixTest" />
+      <option name="METHOD_NAME" value="test_can_extract_column" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -276,20 +280,20 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest HighScoreTest.test_message_for_repeated_personal_best" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest MatrixTest.test_can_extract_column (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/high-scores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/matrix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Exercism" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
-      <option name="CLASS_NAME" value="HighScoreTest" />
-      <option name="METHOD_NAME" value="test_message_for_repeated_personal_best" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/matrix/matrix_test.py" />
+      <option name="CLASS_NAME" value="MatrixTest" />
+      <option name="METHOD_NAME" value="test_can_extract_column" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -299,40 +303,45 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="largest_series_product" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/largest-series-product" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Exercism" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/largest-series-product/largest_series_product.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in high_scores_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest MatrixTest.test_can_extract_column (2)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/high-scores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/matrix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Exercism" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/high-scores/high_scores_test.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/matrix/matrix_test.py" />
+      <option name="CLASS_NAME" value="MatrixTest" />
+      <option name="METHOD_NAME" value="test_can_extract_column" />
       <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest MatrixTest.test_extract_column_where_numbers_have_different_widths" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/matrix" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Exercism" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/matrix/matrix_test.py" />
+      <option name="CLASS_NAME" value="MatrixTest" />
+      <option name="METHOD_NAME" value="test_extract_column_where_numbers_have_different_widths" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -555,19 +564,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_new_personal_best" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_repeated_personal_best" />
-      <item index="3" class="java.lang.String" itemvalue="Python.largest_series_product" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in high_scores_test" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest MatrixTest.test_can_extract_column (5)" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest MatrixTest.test_can_extract_column" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest MatrixTest.test_can_extract_column (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest MatrixTest.test_can_extract_column (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest MatrixTest.test_extract_column_where_numbers_have_different_widths" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in high_scores_test" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_repeated_personal_best" />
-        <item index="2" class="java.lang.String" itemvalue="Python.largest_series_product" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest HighScoreTest.test_message_for_new_personal_best" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest MatrixTest.test_extract_column_where_numbers_have_different_widths" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest MatrixTest.test_can_extract_column (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest MatrixTest.test_can_extract_column (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest MatrixTest.test_can_extract_column" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest MatrixTest.test_can_extract_column (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -585,42 +594,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_HighScoreTest_test_message_for_new_personal_best - 2019.01.17 at 15h 26m 52s.xml">
-      <configuration name="Unittest HighScoreTest.test_message_for_new_personal_best" configurationId="tests" />
+    <history-entry file="Unittest_MatrixTest_test_can_extract_column - 2019.01.19 at 17h 23m 56s.xml">
+      <configuration name="Unittest MatrixTest.test_can_extract_column" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_HighScoreTest_test_message_for_repeated_personal_best - 2019.01.17 at 15h 26m 54s.xml">
-      <configuration name="Unittest HighScoreTest.test_message_for_repeated_personal_best" configurationId="tests" />
+    <history-entry file="Unittest_MatrixTest_test_can_extract_column - 2019.01.19 at 17h 24m 00s.xml">
+      <configuration name="Unittest MatrixTest.test_can_extract_column" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_HighScoreTest_test_message_for_repeated_personal_best - 2019.01.17 at 18h 29m 17s.xml">
-      <configuration name="Unittest HighScoreTest.test_message_for_repeated_personal_best" configurationId="tests" />
+    <history-entry file="Unittest_MatrixTest_test_can_extract_column_(1) - 2019.01.19 at 17h 23m 57s.xml">
+      <configuration name="Unittest MatrixTest.test_can_extract_column (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_HighScoreTest_test_message_for_repeated_personal_best - 2019.01.17 at 18h 29m 18s.xml">
-      <configuration name="Unittest HighScoreTest.test_message_for_repeated_personal_best" configurationId="tests" />
+    <history-entry file="Unittest_MatrixTest_test_can_extract_column_(1) - 2019.01.19 at 17h 24m 01s.xml">
+      <configuration name="Unittest MatrixTest.test_can_extract_column (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_HighScoreTest_test_message_for_repeated_personal_best - 2019.01.17 at 18h 29m 19s.xml">
-      <configuration name="Unittest HighScoreTest.test_message_for_repeated_personal_best" configurationId="tests" />
+    <history-entry file="Unittest_MatrixTest_test_can_extract_column_(2) - 2019.01.19 at 17h 23m 58s.xml">
+      <configuration name="Unittest MatrixTest.test_can_extract_column (2)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_HighScoreTest_test_message_when_latest_score_is_not_the_highest_score - 2019.01.17 at 15h 26m 54s.xml">
-      <configuration name="Unittest HighScoreTest.test_message_when_latest_score_is_not_the_highest_score" configurationId="tests" />
+    <history-entry file="Unittest_MatrixTest_test_can_extract_column_(2) - 2019.01.19 at 17h 24m 01s.xml">
+      <configuration name="Unittest MatrixTest.test_can_extract_column (2)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_HighScoreTest_test_personal_top_from_a_long_list - 2019.01.17 at 15h 26m 50s.xml">
-      <configuration name="Unittest HighScoreTest.test_personal_top_from_a_long_list" configurationId="tests" />
+    <history-entry file="Unittest_MatrixTest_test_can_extract_column_(3) - 2019.01.19 at 17h 23m 58s.xml">
+      <configuration name="Unittest MatrixTest.test_can_extract_column (3)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_HighScoreTest_test_personal_top_when_there_are_less_than_3 - 2019.01.17 at 15h 26m 48s.xml">
-      <configuration name="Unittest HighScoreTest.test_personal_top_when_there_are_less_than_3" configurationId="tests" />
+    <history-entry file="Unittest_MatrixTest_test_can_extract_column_(4) - 2019.01.19 at 17h 23m 59s.xml">
+      <configuration name="Unittest MatrixTest.test_can_extract_column (4)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_HighScoreTest_test_personal_top_when_there_is_only_one - 2019.01.17 at 15h 26m 49s.xml">
-      <configuration name="Unittest HighScoreTest.test_personal_top_when_there_is_only_one" configurationId="tests" />
+    <history-entry file="Unittest_MatrixTest_test_can_extract_column_(5) - 2019.01.19 at 17h 24m 00s.xml">
+      <configuration name="Unittest MatrixTest.test_can_extract_column (5)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_high_scores_test - 2019.01.17 at 18h 29m 20s.xml">
-      <configuration name="Unittests in high_scores_test" configurationId="tests" />
+    <history-entry file="Unittest_MatrixTest_test_extract_column_where_numbers_have_different_widths - 2019.01.19 at 17h 24m 05s.xml">
+      <configuration name="Unittest MatrixTest.test_extract_column_where_numbers_have_different_widths" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18745036" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1938046" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -651,27 +660,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python/space-age/space_age_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/robot-name/robot_name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/robot-name/robot_name_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/hello-world/hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -927,7 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,9 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="72" column="8" lean-forward="false" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -945,7 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -953,23 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="72" lean-forward="false" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/high-scores/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/largest-series-product/largest_series_product.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -977,9 +943,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/largest-series-product/largest_series_product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/high-scores/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/matrix/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/matrix/matrix_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/matrix/matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
