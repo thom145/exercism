@@ -15,8 +15,6 @@ class Matrix(object):
         index -= 1 # index of column starts at 1
 
         for list_of_numbers in self.matrix_string.split("\n"):
-            self.return_list.append(list_of_numbers.split())
+            row = [int(number) for number in list_of_numbers.split()]
+            self.return_list.append(row)
         return self.return_list[index]
-
-
-
