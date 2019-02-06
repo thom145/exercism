@@ -1,11 +1,13 @@
-import re
-
 
 def proteins(strand):
 
     if len(strand) > 3:
-        all_strands = re.findall('...', strand)
-        list_strands = list(all_strands)
-        for strand in list_strands:
+
+{'Methionine': ['AUG'],
+ 'Phenylalanine': ['UUU', 'UUC'],
+ 'Leucine': ['UUA', 'UUG'],
+ 'Serine': ['UCU', 'UCC', 'UCA', 'UCG'],
+ 'Tyrosine': ['UAU', 'UAC'],
+ }
 
 
