@@ -7,6 +7,7 @@ from protein_translation import proteins
 
 class ProteinTranslationTest(unittest.TestCase):
 
+
     def test_AUG_translates_to_methionine(self):
         self.assertEqual(proteins('AUG'), ['Methionine'])
 

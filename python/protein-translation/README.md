@@ -1,4 +1,4 @@
-# Protein Translation
+Protein Translation
 
 Translate RNA sequences into proteins.
 
