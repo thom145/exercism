@@ -3,8 +3,8 @@ from __future__ import division
 
 class Rational(object):
     def __init__(self, numer, denom):
-        self.numer = None
-        self.denom = None
+        self.numer = numer
+        self.denom = denom
 
     def __eq__(self, other):
         return self.numer == other.numer and self.denom == other.denom
@@ -13,7 +13,8 @@ class Rational(object):
         return '{}/{}'.format(self.numer, self.denom)
 
     def __add__(self, other):
-        pass
+        return (self.numer * other.denom + self.denom * other.numer) / (other.numer * other.denom)
+
 
     def __sub__(self, other):
         pass
@@ -32,3 +33,6 @@ class Rational(object):
 
     def __rpow__(self, base):
         pass
+
+x = Rational(1, 2) + Rational(-2, 3)
+print(x)
