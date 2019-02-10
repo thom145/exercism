@@ -13,14 +13,19 @@ class Rational(object):
         return '{}/{}'.format(self.numer, self.denom)
 
     def __add__(self, other):
-        return (self.numer * other.denom + self.denom * other.numer) / (other.numer * other.denom)
-
+        numer = ((self.numer * other.denom) + (other.numer * self.denom))
+        denom = (self.denom * other.denom)
+        return Rational(numer, denom)
 
     def __sub__(self, other):
-        pass
+        numer = ((self.numer * other.denom) - (other.numer * self.denom))
+        denom = (self.denom * other.denom)
+        return Rational(numer, denom)
 
     def __mul__(self, other):
-        pass
+        numer = ((self.numer * other.numer))
+        denom = (self.denom * other.denum)
+        return Rational(numer, denom)
 
     def __truediv__(self, other):
         pass
@@ -33,6 +38,3 @@ class Rational(object):
 
     def __rpow__(self, base):
         pass
-
-x = Rational(1, 2) + Rational(-2, 3)
-print(x)
