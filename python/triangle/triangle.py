@@ -27,7 +27,7 @@ def is_scalene(sides):
                 return len({side for side in sides}) == 3
     else:
         return False
-    
+
 def check_if_triangle(sides):
     if sides[0] + sides[1] > sides[2] and sides[0] + sides[2] > sides[1] and sides[1] + sides[2] > sides[0]:
         return True
