@@ -4,7 +4,7 @@
 		module="hello-world$sources"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190210135345"
+		publication="20190211200424"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

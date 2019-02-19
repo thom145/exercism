@@ -3,6 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="86c3762e-c6f8-40d5-a9f6-70050a04ad14" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/raindrops/raindrops.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/raindrops/raindrops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/.idea/modules/hello-world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/.idea/modules/hello-world.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/default/hello-world$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/default/hello-world$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/default/hello-world$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/default/hello-world$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/scala-2.12/resolution-cache/reports/default-hello-world$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/hello-world/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/scala/hello-world/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,24 +147,34 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/anagram/anagram.py">
+        <entry file="file://$PROJECT_DIR$/python/raindrops/raindrops.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/anagram/anagram_test.py">
+        <entry file="file://$PROJECT_DIR$/python/raindrops/raindrops_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1064">
-              <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+            <state relative-caret-position="1216">
+              <caret line="64" column="9" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="9" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/raindrops/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -200,8 +232,8 @@
         <option value="$PROJECT_DIR$/python/hamming/hamming.py" />
         <option value="$PROJECT_DIR$/python/triangle/triangle.py" />
         <option value="$PROJECT_DIR$/python/phone-number/phone_number.py" />
-        <option value="$PROJECT_DIR$/python/raindrops/raindrops.py" />
         <option value="$PROJECT_DIR$/python/anagram/anagram.py" />
+        <option value="$PROJECT_DIR$/python/raindrops/raindrops.py" />
       </list>
     </option>
   </component>
@@ -211,7 +243,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="2560" />
     <option name="height" value="1031" />
   </component>
@@ -220,6 +252,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,11 +271,16 @@
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="anagram" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Exercism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercism" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="raindrops" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in anagram_test.py">
+  <component name="RunManager" selected="Python tests.Unittests in raindrops_test.py">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -401,7 +439,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="raindrops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercism" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -409,12 +447,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/triangle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/raindrops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/triangle/triangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/raindrops/raindrops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -465,18 +503,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in triangle_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in raindrops_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Exercism" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/triangle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/raindrops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/triangle/triangle_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/raindrops/raindrops_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -547,19 +585,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.triangle" />
-      <item itemvalue="Python tests.Unittests in triangle_test.py" />
       <item itemvalue="Python.anagram" />
       <item itemvalue="Python tests.Unittests for anagram_test.AnagramTest.test_detects_two_anagrams" />
       <item itemvalue="Python tests.Unittests in anagram_test.py" />
+      <item itemvalue="Python.raindrops" />
+      <item itemvalue="Python tests.Unittests in raindrops_test.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in raindrops_test.py" />
+        <item itemvalue="Python.raindrops" />
         <item itemvalue="Python tests.Unittests in anagram_test.py" />
         <item itemvalue="Python tests.Unittests for anagram_test.AnagramTest.test_detects_two_anagrams" />
         <item itemvalue="Python.anagram" />
-        <item itemvalue="Python tests.Unittests in triangle_test.py" />
-        <item itemvalue="Python.triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -577,9 +615,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_triangle_test_py - 2019.02.11 at 12h 26m 08s.xml">
-      <configuration name="Unittests in triangle_test.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_triangle_test_py - 2019.02.11 at 18h 55m 24s.xml">
       <configuration name="Unittests in triangle_test.py" configurationId="tests" />
     </history-entry>
@@ -607,6 +642,9 @@
     <history-entry file="Unittests_in_anagram_test_py - 2019.02.11 at 19h 15m 04s.xml">
       <configuration name="Unittests in anagram_test.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_anagram_test_py - 2019.02.19 at 09h 47m 43s.xml">
+      <configuration name="Unittests in anagram_test.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -618,15 +656,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1031" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24970461" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" weight="0.24980143" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -908,36 +946,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/raindrops/raindrops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/raindrops/raindrops_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="64" column="9" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/raindrops/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/anagram/anagram_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+        <state relative-caret-position="190">
+          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -946,8 +958,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python/anagram/anagram.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/raindrops/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/raindrops/raindrops_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="9" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/raindrops/raindrops.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>

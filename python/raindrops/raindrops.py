@@ -1,16 +1,12 @@
 def raindrops(number):
-    list_to_check = [i for i in range(1, number+1) if (number/i).is_integer()]
+    returnString = []
+    numberDict = {3: 'Pling', 5: 'Plang', 7: 'Plong'}
 
-    num_to_string = []
-    for num in list_to_check:
-        if num == 3:
-            num_to_string.extend('Pling')
-        if num == 5:
-            num_to_string.extend('Plang')
-        if num == 7:
-            num_to_string.extend('Plong')
+    for key in numberDict.keys():
+        if number % key == 0:
+            returnString.extend(numberDict[key])
 
-    if num_to_string == []:
+    if not returnString:
         return str(number)
     else:
-        return ''.join(num_to_string)
+        return ''.join(returnString)
