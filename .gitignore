@@ -1,4 +1,2 @@
-# Binaries for programs and plugins
-.DS_Store
+# Don't commit the .idea file
 .idea/
-.idea
