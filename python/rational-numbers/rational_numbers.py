@@ -1,5 +1,5 @@
 from __future__ import division
-
+from fractions import Fraction
 
 class Rational(object):
     def __init__(self, numer, denom):
@@ -38,3 +38,8 @@ class Rational(object):
 
     def __rpow__(self, base):
         pass
+
+
+
+print(Rational(1, 2) + Rational(-1, 2))
+print(type(Fraction(0,4)))
